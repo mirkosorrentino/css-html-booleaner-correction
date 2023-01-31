@@ -1,0 +1,54 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+.container {
+    margin-bottom: 10px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+/* HEADER */
+.header {
+    background-image: url(../img/pattern.png);
+    background-color: blue;
+    background-size: 30%;
+    padding-top: 24px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.booleaner-logo {
+    width: 150px;
+}
+
+/* MAIN */
+.title {
+    margin-bottom: 10px;
+    font-size: 3rem;
+}
+
+.booleaner-blue {
+    color: blue;
+}
+
+.author {
+    color: gray;
+}
+
+.date {
+    color: gray;
+    font-size: 0.8rem;
+}
+
+.caption {
+    font-size: 0.8rem;
+}
+
+/* FOOTER */
